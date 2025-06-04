@@ -1,3 +1,3 @@
-# PYTHON-FILES
+# PYTHON FILES
 
-##Review files are from datacamp and other online web tutorials
+## Review files are from DataCamp and other online tutorials.
